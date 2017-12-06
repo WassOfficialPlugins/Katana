@@ -76,8 +76,8 @@ namespace pocketmine {
 	const VERSION = "1.6dev";
 	const API_VERSION = "1.13.0";
 	const CODENAME = "[REDACTED]";
-	const MINECRAFT_VERSION = "v0.12.1 alpha";
-	const MINECRAFT_VERSION_NETWORK = "0.12.1";
+	const MINECRAFT_VERSION = "v01.2.5";
+	const MINECRAFT_VERSION_NETWORK = "1.2.5";
 
 	/*
 	 * Startup code. Do not look at it, it may harm you.
